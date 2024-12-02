@@ -238,6 +238,7 @@ def read_procedures(ct_names: list, raw_path: str) -> dict:
         
     return PX_dict
 
+
 ###############Duplication check####################
 def dup_check(pat_df: pd.DataFrame, id_col_names: list) -> None:
     df_for_check_dup = pat_df.drop_duplicates(subset=id_col_names)
