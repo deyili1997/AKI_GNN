@@ -1,0 +1,17 @@
+{"time":"2024-12-05T11:46:03.593884892-05:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-05T11:46:03.593895783-05:00","level":"INFO","msg":"created symlink","path":"/home/lideyi/AKI_GNN/notebooks/model_experiments/wandb/run-20241205_114603-4zsbpjh2/logs/debug-core.log"}
+{"time":"2024-12-05T11:46:03.805256804-05:00","level":"INFO","msg":"created new stream","id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:03.805288725-05:00","level":"INFO","msg":"stream: started","id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:03.805299395-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:03.805300627-05:00","level":"INFO","msg":"handler: started","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:03.805333009-05:00","level":"INFO","msg":"sender: started","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:03.951088216-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-05T11:46:08.30635969-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-05T11:46:08.306979042-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-05T11:46:08.743078516-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-05T11:46:08.853448831-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-05T11:46:09.85577172-05:00","level":"INFO","msg":"stream: closing","id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:09.855795415-05:00","level":"INFO","msg":"handler: closed","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:09.85580846-05:00","level":"INFO","msg":"sender: closed","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:09.855807648-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4zsbpjh2"}
+{"time":"2024-12-05T11:46:09.856573166-05:00","level":"INFO","msg":"stream: closed","id":"4zsbpjh2"}
